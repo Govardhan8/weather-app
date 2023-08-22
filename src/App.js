@@ -13,8 +13,8 @@ function App() {
           Download Source Code
         </a>{" "}
         | Developed by{" "}
-        <a target="_blank" href="https://www.gauravghai.dev/">
-          Gaurav Ghai
+        <a target="_blank" href="https://govardhan-portfolio.netlify.app/">
+          Govardhan N
         </a>{" "}
         | Powered by{" "}
         <a target="_blank" href="https://www.htmlhints.com/">
